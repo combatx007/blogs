@@ -1,8 +1,0 @@
-/.idea/
-/nbproject/
-/vendor/
-/app/etc/parameters.ini
-/app/var/*
-!*.gitkeep
-!*.gitignore
-*.php~
